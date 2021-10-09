@@ -26,7 +26,6 @@
     <ul>
       <li><a href="https://github.com/shaury317">Shaurya Raj Srivastava(Team Leader)</a></li>
       <li><a href="https://github.com/dhanrajchaurasia">Dhanraj Chaurasia</a></li>
-      
     </ul>
   </li>  
   <li> Mentor
